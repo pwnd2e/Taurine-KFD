@@ -1,15 +1,7 @@
 {
   "colors" : [
     {
-      "color" : {
-        "color-space" : "srgb",
-        "components" : {
-          "alpha" : "1.000",
-          "blue" : "0.338",
-          "green" : "0.337",
-          "red" : "0.964"
-        }
-      },
+      "filename" : "taurine.png",
       "idiom" : "universal"
     }
   ],
