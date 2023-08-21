@@ -7,7 +7,7 @@ Ported kfd exploit.
 
 All A8-A11 devices on iOS 14.0-14.4.2
 
-just cd into the directory with terminal and run "make package" to biuld ipa
+just cd into the directory with terminal and run `make package` to biuld ipa
 
 # License
 
